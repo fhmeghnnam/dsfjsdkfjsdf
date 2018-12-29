@@ -36,8 +36,8 @@ var ti={}
 
 client.on("ready", () => { // ??? ?????
 function lol() 
-{     client.guilds.get('520924017817944075')
-.roles.find("name", "ツ Legend")
+{     client.guilds.get('527403469959725076')
+.roles.find("name", "ツLegend")
 .setColor("RANDOM");   };   
 setInterval(lol, 20000); 
 }
